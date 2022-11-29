@@ -1,0 +1,15 @@
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.csproj.AssemblyReference.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.AssemblyInfoInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.AssemblyInfo.cs
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.csproj.CoreCompileInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\bin\Debug\net6.0\ex2.exe
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\bin\Debug\net6.0\ex2.deps.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\bin\Debug\net6.0\ex2.runtimeconfig.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\bin\Debug\net6.0\ex2.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\bin\Debug\net6.0\ex2.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\refint\ex2.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ex2.genruntimeconfig.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex2\obj\Debug\net6.0\ref\ex2.dll

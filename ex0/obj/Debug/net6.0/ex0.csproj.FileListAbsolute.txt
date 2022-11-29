@@ -1,0 +1,15 @@
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\bin\Debug\net6.0\ex0.exe
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\bin\Debug\net6.0\ex0.deps.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\bin\Debug\net6.0\ex0.runtimeconfig.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\bin\Debug\net6.0\ex0.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\bin\Debug\net6.0\ex0.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.csproj.AssemblyReference.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.AssemblyInfoInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.AssemblyInfo.cs
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.csproj.CoreCompileInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\refint\ex0.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ex0.genruntimeconfig.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Prac_06\ex0\obj\Debug\net6.0\ref\ex0.dll
